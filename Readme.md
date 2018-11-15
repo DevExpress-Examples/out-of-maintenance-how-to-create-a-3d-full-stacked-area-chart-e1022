@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/3DFullStackedAreaChart/Form1.cs) (VB: [Form1.vb](./VB/3DFullStackedAreaChart/Form1.vb))
+* [Program.cs](./CS/3DFullStackedAreaChart/Program.cs) (VB: [Program.vb](./VB/3DFullStackedAreaChart/Program.vb))
+<!-- default file list end -->
 # How to create a 3D Full-Stacked Area chart
 
 
